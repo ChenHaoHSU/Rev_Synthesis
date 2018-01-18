@@ -1,0 +1,5 @@
+PKGFLAG   =
+EXTHDRS   = synthesis.h
+
+include ../Makefile.in
+include ../Makefile.lib

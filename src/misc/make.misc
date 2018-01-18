@@ -1,0 +1,5 @@
+PKGFLAG   =
+EXTHDRS   = argHandler.hpp global.hpp paramHandler.hpp util.hpp
+
+include ../Makefile.in
+include ../Makefile.lib
