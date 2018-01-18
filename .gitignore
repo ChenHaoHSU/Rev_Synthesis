@@ -1,0 +1,7 @@
+*.o
+*.log
+*.out
+*.plt
+*.tfc
+*.spec
+
